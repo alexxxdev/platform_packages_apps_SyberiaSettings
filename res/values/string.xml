@@ -565,6 +565,18 @@
     <string name="lockdate_font_size_title">Date font size</string>
     <string name="lockclock_font_size_title">Clock font size</string>
 
-</resources> 
+    <string name="audio_panel_view">Audio panel view</string>
+    <string name="audio_panel_view_media_title">Media</string>
+    <string name="audio_panel_view_media_summary"></string>
+    <string name="audio_panel_view_ringer_title">Ring</string>
+    <string name="audio_panel_view_ringer_summary"></string>
+    <string name="audio_panel_view_notification_title">Notification</string>
+    <string name="audio_panel_view_notification_summary"></string>
+    <string name="audio_panel_view_alarm_title">Alarm</string>
+    <string name="audio_panel_view_alarm_summary"></string>
+    <string name="audio_panel_view_voice_title">Voice</string>
+    <string name="audio_panel_view_voice_summary"></string>
+    <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
+    <string name="audio_panel_view_bt_sco_summary"></string>
 
 </resources>
