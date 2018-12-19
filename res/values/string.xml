@@ -579,4 +579,6 @@
     <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
     <string name="audio_panel_view_bt_sco_summary"></string>
 
+    <string name="audio_panel_view_position_title">Audio panel is left</string>
+
 </resources>

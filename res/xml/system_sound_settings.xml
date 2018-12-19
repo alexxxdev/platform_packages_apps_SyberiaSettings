@@ -52,6 +52,11 @@
         android:order="-135"
         settings:controller="com.syberia.settings.controller.IncreasingRingVolumePreferenceController" />
 
+    <com.syberia.settings.preference.SystemSettingSwitchPreference
+        android:key="audio_panel_view_position"
+        android:title="@string/audio_panel_view_position_title"
+        android:defaultValue="false"/>
+
     <PreferenceCategory
         android:title="@string/audio_panel_view">
         
@@ -91,5 +96,5 @@
             android:title="@string/audio_panel_view_bt_sco_title"
             android:summary="@string/audio_panel_view_bt_sco_summary"
             android:defaultValue="false"/> 
-    </PreferenceCategory>    
+    </PreferenceCategory>
 </PreferenceScreen>
